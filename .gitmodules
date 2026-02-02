@@ -1,3 +1,3 @@
-[submodule "H5-Tvearfaglig"]
-	path = H5-Tvearfaglig
-	url = git@github.com:Lilf4/H5-Tvearfaglig.git
+[submodule "H5-Tvearfaglig-WebApp"]
+	path = H5-Tvearfaglig-WebApp
+	url = git@github.com:Lilf4/H5-Tvearfaglig-WebApp.git
