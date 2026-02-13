@@ -1,3 +1,6 @@
 [submodule "H5-Tvearfaglig-WebApp"]
 	path = H5-Tvearfaglig-WebApp
 	url = git@github.com:Lilf4/H5-Tvearfaglig-WebApp.git
+[submodule "H5-Tvaerfaglig-DBWebApi"]
+	path = H5-Tvaerfaglig-DBWebApi
+	url = git@github.com:Lilf4/H5-Tvaerfaglig-DBWebApi.git
